@@ -1,0 +1,14 @@
+# Site settings
+title: Paweł Kopiczko
+email: kopiczko@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The website of Paweł Kopiczko, a software developer.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://kopiczko.github.io" # the base hostname & protocol for your site
+twitter_username: pawelkopiczko
+github_username:  kopiczko
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
